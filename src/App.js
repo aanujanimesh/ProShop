@@ -11,6 +11,7 @@ const App = () => {
         <main>
             <Container>
                 <h1>Welcome To ProShop</h1>
+                <h2>Welcome</h2>
             </Container>
         </main>
         <Footer/>
